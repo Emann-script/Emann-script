@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Emann-script
+I'm a frontend developer! With a passion for technology and innovation, I’m continuously learning, building, and enhancing my skills to create impactful solutions.
 - 💞️ I’m looking to collaborate with developers on many projects
 - 📦 I work with HTML, CSS (Tailwind), JS(Vue, React, Node)
 - 💬 Ask me about code and what I do
