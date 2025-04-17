@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @Emann-script
-- 👀 I’m interested in Front-end Development
-- ⚡ I know Vue.js, HTML, CSS, JavaScript, and Node.js
-- 🌱 I’m currently learning React.js, Angular, and TypeScript
-- 💞️ I’m looking to collaborate on jobs related to Front-end development
-- 📫 How to reach me WhatsApp - +234 9048801668, LinkedIn- www.linkedin.com/in/emann-b66a0b343
+- 💞️ I’m looking to collaborate with developers on many projects
+- 📦 I work with HTML, CSS (Tailwind), JS(Vue, React, Node)
+- 💬 Ask me about code and what I do
+- 📫 How to reach me: There's a link to my social media account on my profile
 
 <!---
 Emann-script/Emann-script is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
